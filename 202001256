@@ -1,0 +1,38 @@
+QUESTION 1.
+
+FRs, or functional requirements:
+
+Allow book borrowing and book returns for members.
+Give members the option to extend the borrowing date.
+Make it simple for library employees to manage book transactions.
+Permit the librarian to add and delete records from the database.
+Allow visitors to browse and search for books online.
+Just allow legitimate members to borrow books and return them.
+Give an HTML5-based online application.
+Run exclusively inside the LAN of the university.
+
+NFRs: Non-Functional Requirements
+
+The web application needs to be safe and shouldn't keep any private data in plain text.
+To minimise security threats, the web application should be run inside the institute LAN.
+
+
+
+QUESTION 2.
+
+SCOPE:
+it will treat theuser with importance and make them partially hear again
+The goal of the problem is to develop a mobile application that caters to the requirements of people with debilitating hearing loss on a daily basis.
+
+Features:
+artificial intelligence is used to identify important sound occurrences.
+instant notifications for key sound occurrences like baby crying and automobile horns.
+recording identified sound events continuously.
+for Android-based mobile smartphones.
+real-time performance with low latency.
+
+Ineffective Features:
+Usability: For people with debilitating hearing loss, the programme should be simple to use and intuitive.
+Performance: The user experience should be real-time and low-latency for the programme.
+The programme ought to be prepared for Android smartphones in terms of compatibility.
+Security: The application must be secure and should guard users' personal information and privacy.
